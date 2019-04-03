@@ -1,0 +1,11 @@
+/Users/illann/Projects/MyGame/MyGame/bin/Debug/netcoreapp2.2/MyGame.deps.json
+/Users/illann/Projects/MyGame/MyGame/bin/Debug/netcoreapp2.2/MyGame.runtimeconfig.json
+/Users/illann/Projects/MyGame/MyGame/bin/Debug/netcoreapp2.2/MyGame.runtimeconfig.dev.json
+/Users/illann/Projects/MyGame/MyGame/bin/Debug/netcoreapp2.2/MyGame.dll
+/Users/illann/Projects/MyGame/MyGame/bin/Debug/netcoreapp2.2/MyGame.pdb
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.csprojAssemblyReference.cache
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.csproj.CoreCompileInputs.cache
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.AssemblyInfoInputs.cache
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.AssemblyInfo.cs
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.dll
+/Users/illann/Projects/MyGame/MyGame/obj/Debug/netcoreapp2.2/MyGame.pdb
